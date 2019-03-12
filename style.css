@@ -187,3 +187,19 @@ a.dotted-link:hover {
     color: #999;
     font-weight: normal;
 }
+.info .fa {
+    margin-right: 15px;
+    color: #ccd1d6;
+}
+.info .fa.fa-envelope-o {
+    font-size: 14px;
+}
+.info ul {
+    margin-bottom: 0;
+}
+.info li {
+    margin-bottom: 15px;
+}
+.info li:last-child {
+    margin-bottom: 0;
+}
